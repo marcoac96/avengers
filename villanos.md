@@ -2,4 +2,4 @@
 
 * karla aguilar
 * laura serratos
-* alma perez
+* claudia regalado
